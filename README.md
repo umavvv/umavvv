@@ -2,7 +2,7 @@
 <img src="https://thumbs.gfycat.com/DentalMadeupAustraliancurlew-size_restricted.gif" width=600px height=200px />
   </div>
 <div id="header" align="center">
-### ░▒▓█ Привет, меня зовут Ума !█▓▒░
+░▒▓█ Привет, меня зовут Ума !█▓▒░
   </div>
  
  Обо мне:
