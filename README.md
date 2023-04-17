@@ -1,11 +1,11 @@
 <div id="header" align="center">
-<img src="https://thumbs.gfycat.com/DentalMadeupAustraliancurlew-size_restricted.gif" width=600px height=200px />
   </div>
 <div id="header" align="center">
 ░▒▓█ Привет, меня зовут Ума !█▓▒░
   </div>
  
- Обо мне:
+<img src="https://otkritkis.com/wp-content/uploads/2022/07/hr2rf.gif" width=50px height=50px /> Обо мне:
+Я начинающий веб разработчик! нарабатываю скиллы в Codewars, делаю проекты, занимаюсь с ментором, прошла курсы в Nordic it school.
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umavvv&theme=monokai)](https://git.io/streak-stats)
  
