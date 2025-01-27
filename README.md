@@ -10,11 +10,9 @@
 ___________________________________________________________________________________________________________________________________________
 Социальные сети:
 
-<a href="https://t.me/Umavvv">
+<a href="https://t.me/Umavvvv">
   <img src="https://rusvectores.org/data/images/telegram.png/" width="30" height="30">
-</a> <a href="https://www.linkedin.com/in/%D1%83%D0%BC%D0%B0-%D0%BD%D1%83%D1%80%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0-71314a266">
-  <img src="https://www.globaldatinginsights.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-29-at-17.41.10.png" width="30" height="30">
-</a>
+</a> 
 
 ____________________________________________________________________________________________________________________________________________
   
